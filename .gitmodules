@@ -1,3 +1,6 @@
 [submodule "swap"]
 	path = swap
 	url = https://github.com/miclaraia/swap.git
+[submodule "caesar"]
+	path = caesar
+	url = https://github.com/zooniverse/caesar.git

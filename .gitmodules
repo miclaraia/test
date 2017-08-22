@@ -1,0 +1,3 @@
+[submodule "swap"]
+	path = swap
+	url = https://github.com/miclaraia/swap.git
